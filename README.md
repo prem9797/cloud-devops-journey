@@ -1,6 +1,3 @@
-# cloud-devops-journey
-Initial structure for cloud &amp; devops learning
-
 # Cloud & DevOps Journey
 
 This repository documents my hands-on journey transitioning into Cloud and DevOps engineering.
