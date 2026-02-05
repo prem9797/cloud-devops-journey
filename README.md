@@ -18,3 +18,8 @@ This repository documents my hands-on journey transitioning into Cloud and DevOp
 
 This repository is not a tutorial dump.
 It is a record of real engineering work and learning.
+
+
+## Current Status
+- Actively building Linux fundamentals
+- Documenting real issues and fixes
